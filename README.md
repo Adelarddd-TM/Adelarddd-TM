@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-```javascript
+
 const developer = {
     name: "Your Name",
     location: "Your City, Country",
@@ -32,7 +32,7 @@ const developer = {
     currentFocus: "Building scalable applications and exploring AI/ML",
     funFact: "I debug with console.log and I'm proud of it 🐛"
 };
-```
+
 
 ## 🛠️ Tech Stack
 
