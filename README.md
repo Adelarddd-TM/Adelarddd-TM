@@ -1,3 +1,5 @@
+![Banner](./assets/banner-ade.png)
+
 # Hi There! 👨‍💻
 
 <p align="justify">
@@ -15,7 +17,7 @@ I am a <b>Laravel, React, and Three.js Developer</b> experienced in building app
 
 ## 📊 Stats
 
-[![Adelard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=larddbae&show_icons=true&theme=vue)](https://github.com/larddbae)
+[![Adelard's GitHub Stats](https://github-readme-stats-larddbae.vercel.app/api?username=larddbae&show_icons=true&theme=tokyonight)](https://github.com/larddbae)
 
 ---
 
@@ -60,12 +62,29 @@ I am a <b>Laravel, React, and Three.js Developer</b> experienced in building app
 
 ## 🛠 Tech Stack
 
-| Category | Technologies |
-| --- | --- |
-| **Core** | Laravel, React.js, Three.js, Next.js |
-| **Styling & Animation** | Tailwind CSS, GSAP |
-| **Mobile** | Flutter, Dart |
-| **Tools** | VS Code, Git, Python, MySQL |
+**Core:**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Styling & Animation:**
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+**Mobile:**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Tools:**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -79,4 +98,4 @@ I am a <b>Laravel, React, and Three.js Developer</b> experienced in building app
 
 ## Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/larddbae/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=larddbae&color=blue&style=for-the-badge)
