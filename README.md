@@ -24,6 +24,7 @@ I am a <b>Laravel, React, and Three.js Developer</b> experienced in building app
 ## 📚 Recent Projects
 
 ### 1. SMS (Sistem Manajemen Siswa) - SMKN 1 Tekung
+
 <p align="justify">
 <b>Description:</b> A centralized student management system designed for SMKN 1 Tekung to monitor student violations, attendance, achievements, and behavioral points in real-time.<br>
 <b>Tech:</b> Laravel, Tailwind CSS.<br>
@@ -31,32 +32,41 @@ I am a <b>Laravel, React, and Three.js Developer</b> experienced in building app
 </p>
 
 ### 2. 3D Portfolio Website
+
 <p align="justify">
 <b>Description:</b> An interactive portfolio website featuring immersive 3D web experiences.<br>
-<b>Tech:</b> Next.js, Three.js, GSAP.
+<b>Tech:</b> React, Three.js, GSAP.
 </p>
 
 ### 3. Restaurant Administration & POS System
+
 <p align="justify">
 <b>Description:</b> A comprehensive management application for restaurant administration and Point of Sale.<br>
 <b>Tech:</b> Laravel, Tailwind CSS.
+</p>
+
+### 4. Skateboard AI Configurator
+
+<p align="justify">
+<b>Description:</b> A full-stack custom skateboard builder with AI-powered style recommendations. Features include 3D skateboard configurator with real-time preview (Three.js), AI style assistant via OpenRouter, user authentication, save/load custom designs, and complete order flow.<br>
+<b>Tech:</b> Next.js 15, Laravel 11, TypeScript, React Three Fiber, TailwindCSS, Vercel AI SDK.
 </p>
 
 ---
 
 ## 👔 Experience & Focus
 
-| Focus Area | Description | Period |
-| --- | --- | --- |
+| Focus Area          | Description                                                                                              | Period         |
+| ------------------- | -------------------------------------------------------------------------------------------------------- | -------------- |
 | **Web Development** | Lead Developer for the SMKN 1 Tekung Student Management System and various administrative CRUD projects. | 2025 - Present |
-| **Creative Tech** | Exploring Three.js and React Three Fiber for 3D web development. | 2026 |
+| **Creative Tech**   | Exploring Three.js and React Three Fiber for 3D web development.                                         | 2026           |
 
 ---
 
 ## 🎓 Education
 
-| Institution | Major | Period |
-| --- | --- | --- |
+| Institution         | Major                      | Period         |
+| ------------------- | -------------------------- | -------------- |
 | **SMKN 1 Lumajang** | Software Engineering (RPL) | 2024 — Present |
 
 ---
@@ -66,6 +76,7 @@ I am a <b>Laravel, React, and Three.js Developer</b> experienced in building app
 **Core:**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
@@ -90,10 +101,11 @@ I am a <b>Laravel, React, and Three.js Developer</b> experienced in building app
 
 ## Socials
 
-| Platform | Link |
-| --- | --- |
-| **Instagram** | [@larddbae_](https://instagram.com/larddbae_) |
-| **Website** | [My 3D Portfolio](https://adelardtyanm.netlify.app) |
+| Platform      | Link                                                |
+| ------------- | --------------------------------------------------- |
+| **Instagram** | [@larddbae\_](https://instagram.com/larddbae_)      |
+| **Website**   | [My 3D Portfolio](https://adelardtyanm.netlify.app) |
+
 ---
 
 ## Visitor Count
